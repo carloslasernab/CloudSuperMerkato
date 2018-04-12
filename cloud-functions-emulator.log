@@ -1,0 +1,5 @@
+2018-04-12T02:58:21.410Z - info: User function triggered, starting execution
+2018-04-12T02:58:21.420Z - info: Execution took 8 ms, user function completed successfully
+2018-04-12T02:58:41.724Z - info: Worker for helloWorld closed due to file changes.
+2018-04-12T02:58:46.379Z - info: User function triggered, starting execution
+2018-04-12T02:58:46.395Z - info: Execution took 18 ms, user function completed successfully
